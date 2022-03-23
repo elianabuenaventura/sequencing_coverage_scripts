@@ -63,6 +63,6 @@ Contains R scripts for parsing output, and summarizing things like average cover
 
 
 
-**Scripts rely heavily on inspiration and code from [CONCOCT](https://github.com/BinPro/CONCOCT/blob/master/scripts/map-bowtie2-markduplicates.sh) and [Phyluce](https://github.com/faircloth-lab/phyluce) used under open source licenses:  
+**Scripts rely heavily on inspiration and code from Michael Lloyd, [CONCOCT](https://github.com/BinPro/CONCOCT/blob/master/scripts/map-bowtie2-markduplicates.sh) and [Phyluce](https://github.com/faircloth-lab/phyluce) used under open source licenses:  
 [License A](https://github.com/BinPro/CONCOCT/blob/master/LICENSE.txt),
 [License B](https://github.com/faircloth-lab/phyluce/blob/master/LICENSE.txt)**
