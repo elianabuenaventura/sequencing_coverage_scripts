@@ -1,6 +1,6 @@
 # Sequencing coverage scripts
 
-## Supplimental scripts to the Phyluce] package for calculating sequencing coverage of loci and [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) contigs using [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
+## Supplimental scripts to the Phyluce package for calculating sequencing coverage of loci and [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) contigs using [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
 
 
 
